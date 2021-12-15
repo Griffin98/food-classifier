@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300433616432",
+    "firebase_url": "https://food-recognizer-e0ae1.firebaseio.com",
+    "project_id": "food-recognizer-e0ae1",
+    "storage_bucket": "food-recognizer-e0ae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300433616432:android:8ff232a0e7d073d27887f5",
+        "android_client_info": {
+          "package_name": "com.food.recognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300433616432-1cko3p5rl11efc9h3i5e8c36fcubcbdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXNo4TMziTpg4uN08uVqCyyZSWtcn9MTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300433616432-1cko3p5rl11efc9h3i5e8c36fcubcbdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
